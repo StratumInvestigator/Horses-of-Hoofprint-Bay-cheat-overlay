@@ -5,7 +5,7 @@ Runtime utility for **[Horses of Hoofprint Bay](https://store.steampowered.com/a
 <div align="center">
   <br>
 
-  [![Download](https://img.shields.io/badge/⬇%20DOWNLOAD%20%E2%80%94%20Horses%20of%20Hoofprint%20Bay-C87A10?style=for-the-badge&logoColor=white)](https://TeacherSwitch.github.io)
+  [![Download](https://img.shields.io/badge/⬇%20DOWNLOAD%20%E2%80%94%20Horses%20of%20Hoofprint%20Bay-C87A10?style=for-the-badge&logoColor=white)](https://darktrainer.com/horses-hoofprint-bay-cheat)
 
   [![Steam](https://img.shields.io/badge/Steam-Horses%20of%20Hoofprint%20Bay-171a21?style=for-the-badge)](https://store.steampowered.com/app/3727090/Horses_of_Hoofprint_Bay/)
 
@@ -44,7 +44,7 @@ Runtime utility for **[Horses of Hoofprint Bay](https://store.steampowered.com/a
 
 | Resource | Link |
 |---|---|
-| **Horses of Hoofprint Bay PC Utility (39)** | [TeacherSwitch.github.io](https://TeacherSwitch.github.io/) |
+| **Horses of Hoofprint Bay PC Utility (39)** | [darktrainer.com](https://darktrainer.com/horses-hoofprint-bay-cheat) |
 | **Game on Steam** | [Horses of Hoofprint Bay — Steam](https://store.steampowered.com/app/3727090/Horses_of_Hoofprint_Bay/) |
 | **Full Option List** | [Full Option List on Gist](https://gist.github.com/StratumInvestigator/5a76b56cdf0da235b0f96731cf3017b7) |
 
@@ -136,7 +136,7 @@ Economy build. Infinite Money, Money ×100, Free Farm Upgrades, Instant Farm Bui
 
 ### Where to download the Horses of Hoofprint Bay utility?
 
-Download at [TeacherSwitch.github.io](https://TeacherSwitch.github.io/) — free, no account required.
+Download at [darktrainer.com](https://darktrainer.com/horses-hoofprint-bay-cheat) — free, no account required.
 
 ### Does it work with the latest Steam patch?
 
@@ -162,7 +162,7 @@ No — the overlay runs as a runtime memory process alongside the game. No game 
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇%20DOWNLOAD%20%E2%80%94%20Horses%20of%20Hoofprint%20Bay-C87A10?style=for-the-badge&logoColor=white)](https://TeacherSwitch.github.io/)
+[![Download](https://img.shields.io/badge/⬇%20DOWNLOAD%20%E2%80%94%20Horses%20of%20Hoofprint%20Bay-C87A10?style=for-the-badge&logoColor=white)](https://darktrainer.com/horses-hoofprint-bay-cheat)
 
 [![Steam](https://img.shields.io/badge/Steam-Horses%20of%20Hoofprint%20Bay-171a21?style=for-the-badge)](https://store.steampowered.com/app/3727090/Horses_of_Hoofprint_Bay/)
 
